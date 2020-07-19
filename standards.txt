@@ -1,0 +1,12 @@
+1. Valid variable names:
+  edit, editContent, editContentForUS
+
+2. possible valid pashto google-fonts:
+  - Amiri
+  - Scheherazade
+  - Lateef
+  - Mirza
+  - Katibeh
+  - Jomhuria
+
+3. 
